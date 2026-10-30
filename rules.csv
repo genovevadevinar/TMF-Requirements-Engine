@@ -1,0 +1,9 @@
+rule_id,study,country,site,site_status,event,document,reason
+RULE-001,ALL,ALL,ALL,ALL,ALL,Investigator CV,Required for the study site
+RULE-002,ALL,ALL,ALL,ALL,ALL,Delegation Log,Required for the study site
+RULE-003,ALL,ALL,ALL,ALL,ALL,Training Certificate,Required for the study site
+RULE-004,ALL,ALL,ALL,Active,ALL,Financial Disclosure,Required because the site is active
+RULE-005,ALL,ALL,ALL,ALL,IMV,Monitoring Visit Report,Required because an IMV occurred
+RULE-006,ALL,ALL,ALL,ALL,Investigator Change,Updated Investigator CV,Required because the investigator changed
+RULE-007,ALL,ALL,ALL,ALL,Investigator Change,Financial Disclosure,Required because the investigator changed
+

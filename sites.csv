@@ -1,0 +1,6 @@
+study,country,site,site_status,event
+ABC-001,Brasil,Site 001,Active,None
+ABC-001,Brasil,Site 002,Active,Investigator Change
+ABC-001,Brasil,Site 003,Active,None
+ABC-001,Argentina,Site 001,Initiated,None
+ABC-002,Chile,Site 004,Not Initiated,None

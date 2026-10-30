@@ -1,0 +1,18 @@
+Task ID,Estado Tarea
+ABC-001|Brasil|Site 001|None|Investigator CV,IN PROGRESS
+ABC-001|Brasil|Site 001|None|Delegation Log,IN PROGRESS
+ABC-001|Brasil|Site 001|None|Training Certificate,COMPLETED
+ABC-001|Brasil|Site 001|None|Financial Disclosure,OPEN
+ABC-001|Brasil|Site 002|Investigator Change|Training Certificate,OPEN
+ABC-001|Brasil|Site 003|None|Training Certificate,OPEN
+ABC-001|Brasil|Site 003|None|Financial Disclosure,OPEN
+ABC-001|Argentina|Site 001|None|Investigator CV,OPEN
+ABC-001|Argentina|Site 001|None|Delegation Log,OPEN
+ABC-001|Argentina|Site 001|None|Training Certificate,OPEN
+ABC-002|Chile|Site 004|None|Investigator CV,OPEN
+ABC-002|Chile|Site 004|None|Delegation Log,OPEN
+ABC-002|Chile|Site 004|None|Training Certificate,OPEN
+ABC-001|Argentina|Site 001|None|Financial Disclosure,OPEN
+ABC-001|Brasil|Site 002|PERSON|SUB-002|CV,OPEN
+ABC-001|Brasil|Site 002|PERSON|SUB-003|CV,OPEN
+ABC-001|Brasil|Site 002|PERSON|PI-001|CV,OPEN

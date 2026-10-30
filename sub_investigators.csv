@@ -1,0 +1,6 @@
+
+study,country,site,person_id,person_name,person_role,cv_status
+ABC-001,Brasil,Site 002,SUB-001,Natalia Bianco,Sub-Investigator,Present
+ABC-001,Brasil,Site 002,SUB-002,Jose Aranguren,Sub-Investigator,Missing
+ABC-001,Brasil,Site 002,SUB-003,Nombre Ficticio 3,Sub-Investigator,Missing
+ABC-001,Brasil,Site 002,PI-001,Juan Perez,Principal Investigator,Missing
