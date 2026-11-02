@@ -1431,16 +1431,7 @@ elif page == "FDA 1572 Review":
             st.error(f"No se pudo leer el PDF: {e}")
 
 
-    st.write(
-        "Esta sección permitirá revisar el Formulario FDA 1572 "
-        "y comparar los investigadores declarados con los registrados "
-        "en el sistema."
-    )
-
-    st.info(
-        "Próximo paso: cargar un PDF y comparar los nombres "
-        "con los investigadores registrados."
-    )
+  
 
 # ============================================================
 
